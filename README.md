@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ahnaf Shahriar Pias 👋
 
-<!--
-**A-Piyas-04/A-Piyas-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent applications,
+backend systems, and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work With
+- **AI/ML:** Python, PyTorch, LLMs, RAG
+- **Backend:** FastAPI, Node.js, PostgreSQL
+- **Frontend:** React, Next.js, TypeScript
+- **DevOps:** Docker, GitHub Actions
+
+## 💻 Featured Projects
+- **CareerPilotAI** — AI-powered career assistant
+- **SQLens** — Interactive SQL simulation platform
+- **PulseGrid** — Microservices habit tracker
+
+## 📫 Connect With Me
+- LinkedIn: Add your profile link here

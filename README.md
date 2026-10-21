@@ -1,130 +1,223 @@
-
-# 👨‍💻 Ahnaf Shahriar Pias
-
+<!-- PROFILE / A-Piyas-04 -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10070C,50:451126,100:701A3D&height=230&section=header&text=Ahnaf%20Shahriar%20Pias&fontSize=38&fontColor=F8F0F3&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Software%20Engineer%20%7C%20Creative%20Builder&descAlignY=60&descSize=15" alt="Profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:10070C,40:451126,75:701A3D,100:C77B9B&amp;height=245&amp;section=header&amp;text=AHNAF%20SHAHRIAR%20PIAS&amp;fontSize=36&amp;fontColor=F8F0F3&amp;fontAlignY=36&amp;desc=SOFTWARE%20ENGINEER%20%2F%20AI%20SYSTEMS%20%2F%20PRODUCT%20BUILDER&amp;descAlignY=58&amp;descSize=14&amp;animation=fadeIn" alt="Ahnaf Shahriar Pias — software engineer and AI systems builder" />
 
-### Building intelligent systems, one problem at a time.
+<sub>THE ENGINEERING PORTFOLIO / VOL. 01</sub>
 
-**AI/ML Engineering · Backend Systems · Full-Stack Development**
+### I build at the intersection of intelligent systems, software architecture, and product design.
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-10070C?style=for-the-badge&logo=github&logoColor=F8F0F3" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" /></a>
+[**Explore projects**](#selected-work) &nbsp;&nbsp;•&nbsp;&nbsp; [**Technical toolkit**](#engineering-toolkit) &nbsp;&nbsp;•&nbsp;&nbsp; [**Contribution activity**](#contribution-activity) &nbsp;&nbsp;•&nbsp;&nbsp; [**Get in touch**](#connect)
 
 </div>
 
 ---
 
-## ✦ About Me
+<table>
+<tr><td width="62%" valign="top">
 
-I'm **Ahnaf Shahriar Pias**, a Software Engineering undergraduate at **Islamic University of Technology (IUT)**, focused on turning complex problems into useful, intelligent software.
+### 01 / THE PERSON BEHIND THE CODE
 
-- 🔭 Working on **AI/ML applications, LLM systems, and scalable backends**
-- 🧠 Exploring **AI agents, RAG pipelines, and model orchestration**
-- ⚙️ Enjoy building **end-to-end products and distributed systems**
-- 🎯 Interested in **production AI engineering, software architecture, and developer tools**
-- 💬 Ask me about **Python, FastAPI, Next.js, PostgreSQL, and LLM applications**
+I'm **Ahnaf Shahriar Pias**, a Software Engineering undergraduate at **Islamic University of Technology** with a focus on **AI/ML engineering, backend architecture, full-stack products, and applied research**.
 
----
+I enjoy projects that demand more than one discipline: a retrieval pipeline connected to a product interface, a distributed backend behind a real workflow, or a research model translated into an interactive experience.
 
-## ✦ Technologies & Tools
+**Current focus:** AI agents · RAG and vector search · LLM application engineering · reliable backend systems · developer tools.
+
+</td><td width="38%" valign="top">
+
+```text
+PROFILE / 001
+
+DISCIPLINE
+Software Engineering
+
+FOCUS
+AI / ML Systems
+Full-Stack Products
+Backend Architecture
+Applied Research
+
+LOCATION
+Bangladesh
+```
+
+</td></tr>
+</table>
+
+<a id="selected-work"></a>
+
+## 02 / SELECTED WORK
+
+<sub>REAL PRODUCTS, RESEARCH, AND SYSTEMS / OPEN THE SOURCE TO EXPLORE</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [CAREERPILOT](https://github.com/A-Piyas-04/CareerPilot)
+**AI / AGENTIC APPLICATION**
+
+A career co-pilot that ingests CVs, retrieves grounded context, scores job fit, drafts cover letters, and assembles learning roadmaps.
+
+`Next.js 16` `React 19` `FastAPI` `Gemini` `Supabase` `pgvector` `Docker`
+
+[View repository →](https://github.com/A-Piyas-04/CareerPilot)
+
+</td>
+<td width="50%" valign="top">
+
+### [SCHOLARGRID](https://github.com/A-Piyas-04/PaperPorteHobe)
+**RESEARCH INTELLIGENCE / SEMANTIC SEARCH**
+
+Turns arXiv paper collections into explorable research landscapes using embeddings, dimensionality reduction, clustering, trends, and semantic search.
+
+`Python` `Streamlit` `Sentence Transformers` `UMAP` `HDBSCAN` `scikit-learn`
+
+[View repository →](https://github.com/A-Piyas-04/PaperPorteHobe)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [WOTASK](https://github.com/A-Piyas-04/woTask)
+**DESKTOP SOFTWARE / INTERACTION DESIGN**
+
+An offline-first, spatial task manager that represents projects as constellations and task dependencies as visual chains.
+
+`TypeScript` `Vite` `Tauri` `WebView2` `Local-first`
+
+[View repository →](https://github.com/A-Piyas-04/woTask)
+
+</td>
+<td valign="top">
+
+### [IUTVERSE](https://github.com/A-Piyas-04/IUTverse)
+**CAMPUS PLATFORM / FULL STACK**
+
+A university platform combining profiles, real-time messaging, academic resources, a job board, and campus utilities.
+
+`React` `Express` `Prisma` `PostgreSQL` `JWT` `Vite`
+
+[View repository →](https://github.com/A-Piyas-04/IUTverse)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [NEXUS-RIDE](https://github.com/A-Piyas-04/Nexus-Ride)
+**TRANSPORT PLATFORM / BACKEND SYSTEMS**
+
+Subscription-based transport management with staff and subscriber dashboards, routes, travel tokens, and JWT authentication.
+
+`FastAPI` `SQLModel` `PostgreSQL` `React` `Docker`
+
+[View repository →](https://github.com/A-Piyas-04/Nexus-Ride)
+
+</td>
+<td valign="top">
+
+### [CROSS-PLATFORM SENTIMENT](https://github.com/A-Piyas-04/cross-platform-sentiment)
+**APPLIED MACHINE LEARNING / NLP**
+
+Tests how Reddit-trained sentiment models generalize to Twitter, with domain-shift diagnostics and a CORAL adaptation experiment.
+
+`Python` `scikit-learn` `NLTK` `SciPy` `Pandas` `Jupyter`
+
+[View repository →](https://github.com/A-Piyas-04/cross-platform-sentiment)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c&theme=dark" />
-
-**Frontend & Backend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi&theme=dark" />
-
-**Databases & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,githubactions&theme=dark" />
-
-**AI / Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" />
-
-**LLM Applications · Retrieval-Augmented Generation · Embeddings · Vector Search · Prompt Engineering**
+[**Browse all public repositories →**](https://github.com/A-Piyas-04?tab=repositories)
 
 </div>
 
----
+<a id="engineering-toolkit"></a>
 
-## ✦ Featured Projects
+## 03 / ENGINEERING TOOLKIT
 
-### 🚀 CareerPilotAI
-**AI-powered career intelligence platform**
+<sub>TECHNOLOGIES USED ACROSS PROJECTS, EXPERIMENTS, AND RESEARCH</sub>
 
-A career assistant combining resume intelligence, semantic retrieval, job matching, and personalized career guidance.
+| DOMAIN | TOOLING |
+| :--- | :--- |
+| **Languages** | Python · TypeScript · JavaScript · SQL · Java · C · C++ |
+| **Frontend & interfaces** | React · Next.js · Vite · Tailwind CSS · TanStack Query · React Router · CodeMirror · Three.js · PixiJS |
+| **Backend & APIs** | FastAPI · Uvicorn · Node.js · Express · REST · GraphQL · SQLModel · Prisma · JWT · Supabase Auth |
+| **AI systems & LLMs** | Gemini · RAG · LLM orchestration · Prompt chaining · Vector retrieval · Qwen3-Embedding · E5-Large · Sentence Transformers |
+| **ML & research** | PyTorch · scikit-learn · XGBoost · Pandas · NumPy · SciPy · NLTK · TF-IDF · UMAP · HDBSCAN · Matplotlib |
+| **Data & storage** | PostgreSQL · pgvector · Supabase · MongoDB · MySQL · Redis · DuckDB · IndexedDB |
+| **Infrastructure** | Docker · Docker Compose · GitHub Actions · Nginx · RabbitMQ · Vercel · Railway · Firebase |
+| **Product & developer tools** | Tauri · Streamlit · Gradio · Jupyter · Colab · Kaggle · Postman · Git · GitHub · Cursor · n8n |
 
-`Next.js` · `FastAPI` · `PostgreSQL` · `pgvector` · `Gemini` · `Docker`
+<details>
+<summary><b>EXPAND / How I approach building systems</b></summary>
+<br>
 
-### 🧩 SQLens
-**Interactive SQL learning and simulation platform**
+| PROBLEM | ENGINEERING APPROACH |
+| :--- | :--- |
+| Grounding LLM responses | Chunking, embeddings, retrieval, vector indexes, evidence-aware responses |
+| Full-stack delivery | API contracts, typed frontends, authentication, database-backed workflows |
+| Distributed services | Container networking, service boundaries, queues, caching, integration testing |
+| Applied ML | Reproducible notebooks, feature and embedding comparisons, evaluation and error analysis |
+| Product interaction | Task visualization, information hierarchy, responsive components, accessible motion |
 
-An interactive environment for experimenting with SQL queries and understanding their execution through visualizations.
+</details>
 
-`React` · `TypeScript` · `Express` · `PostgreSQL` · `Gemini`
+## 04 / RESEARCH & EXPERIMENTS
 
-### ⚡ PulseGrid
-**Microservices-based habit tracking system**
+<table>
+<tr><th align="left">RESEARCH THREAD</th><th align="left">WHAT IT EXPLORES</th></tr>
+<tr><td><b>Self-Admitted Technical Debt</b></td><td>Embedding-based classification of technical-debt statements across software artifacts using Qwen3, E5-Large, and XGBoost.</td></tr>
+<tr><td><b>Cross-platform sentiment transfer</b></td><td>Generalization from Reddit to Twitter, distribution shift, model calibration, and CORAL adaptation.</td></tr>
+<tr><td><b>Scientific literature exploration</b></td><td>Semantic search, paper clustering, interpretable research landscapes, publication trends, and evidence-backed discovery.</td></tr>
+<tr><td><b>Agentic systems</b></td><td>ReAct workflows, tool calling, memory/state, orchestration, evaluation, and production reliability.</td></tr>
+</table>
 
-A distributed application with independently running services, containerized deployment, and service-to-service communication.
+<a id="contribution-activity"></a>
 
-`Microservices` · `Docker` · `REST APIs`
+## 05 / CONTRIBUTION ACTIVITY
 
-### 🔬 Self-Admitted Technical Debt Detection
-**Embedding-based software engineering research**
-
-Comparing embedding models and machine learning classifiers for identifying and categorizing self-admitted technical debt in software artifacts.
-
-`Python` · `Qwen3-Embedding` · `E5-Large` · `XGBoost` · `PyTorch`
-
----
-
-## ✦ Contribution Activity
+**The source of truth is GitHub's own contribution calendar.** The previous externally generated graphs did not load reliably, so this version links directly to real activity instead of showing broken images or invented metrics.
 
 <div align="center">
 
-**Consistency. Curiosity. Continuous improvement.**
+[**VIEW MY LIVE CONTRIBUTION CALENDAR →**](https://github.com/A-Piyas-04#user-activity-overview)
 
-<img src="https://ghchart.rshah.org/9ACD32/YOUR_USERNAME" alt="GitHub contribution heatmap" width="100%" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=10070C&color=E5B5C7&title_color=F8F0F3&line=9ACD32&point=E8D94F&area=true&area_color=9ACD32&hide_border=true" alt="GitHub activity graph" width="100%" />
+`NO SYNTHETIC COUNTS` &nbsp; `REAL CONTRIBUTIONS` &nbsp; `GITHUB-NATIVE DATA`
 
 </div>
 
----
+> **Color direction:** burgundy / rose throughout the portfolio; lime and yellow-green reserved for the activity motif. GitHub's native contribution calendar uses GitHub's own colors and cannot be recolored from a README.
 
-## ✦ Currently Exploring
+## 06 / CURRENTLY BUILDING TOWARD
 
-- 🤖 **Agentic AI:** ReAct, tool calling, memory, and multi-agent workflows
-- 🧠 **LLM Engineering:** RAG, evaluation, structured outputs, and orchestration
-- 🏗️ **Backend Architecture:** scalable services, queues, caching, and system design
-- 🔍 **Applied Research:** machine learning for software engineering
+| SYSTEMS | INTERESTS |
+| :--- | :--- |
+| **Intelligent applications** | Agent frameworks, tool execution, structured outputs, retrieval, evaluation |
+| **Reliable services** | Observability, testing, caching, asynchronous processing, secure deployment |
+| **Research-to-product** | Embedding experiments, model comparison, searchable knowledge systems |
+| **Human-centered tools** | Interactive interfaces, productivity workflows, information visualization |
 
----
+<a id="connect"></a>
 
-## ✦ Let's Connect
+## 07 / CONNECT
 
-I'm interested in collaborating on impactful software, AI research, and developer-focused products.
+I enjoy discussing applied AI, software engineering, research tooling, and products that solve concrete problems.
+
+**[GITHUB](https://github.com/A-Piyas-04)** &nbsp; / &nbsp; **[REPOSITORIES](https://github.com/A-Piyas-04?tab=repositories)**
+
+<!-- Add your real LinkedIn URL here after verification. -->
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Explore_My_Work-451126?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
 
-<br /><br />
-
-*Build thoughtfully. Experiment continuously. Keep learning.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:701A3D,50:451126,100:10070C&height=110&section=footer" />
+<sub>AHNAF SHAHRIAR PIAS — ENGINEERED WITH CURIOSITY, SHIPPED WITH INTENTION.</sub>
 
 </div>
-  

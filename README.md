@@ -1,223 +1,96 @@
-<!-- PROFILE / A-Piyas-04 -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:10070C,40:451126,75:701A3D,100:C77B9B&amp;height=245&amp;section=header&amp;text=AHNAF%20SHAHRIAR%20PIAS&amp;fontSize=36&amp;fontColor=F8F0F3&amp;fontAlignY=36&amp;desc=SOFTWARE%20ENGINEER%20%2F%20AI%20SYSTEMS%20%2F%20PRODUCT%20BUILDER&amp;descAlignY=58&amp;descSize=14&amp;animation=fadeIn" alt="Ahnaf Shahriar Pias — software engineer and AI systems builder" />
+<img src="assets/hero.svg" width="100%" alt="Animated introduction, Ahnaf Shahriar Pias" />
 
-<sub>THE ENGINEERING PORTFOLIO / VOL. 01</sub>
+<img src="assets/signal.svg" width="100%" alt="Design, engineer, ship, repeat" />
 
-### I build at the intersection of intelligent systems, software architecture, and product design.
-
-[**Explore projects**](#selected-work) &nbsp;&nbsp;•&nbsp;&nbsp; [**Technical toolkit**](#engineering-toolkit) &nbsp;&nbsp;•&nbsp;&nbsp; [**Contribution activity**](#contribution-activity) &nbsp;&nbsp;•&nbsp;&nbsp; [**Get in touch**](#connect)
+<a href="https://github.com/A-Piyas-04?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub repositories" /></a>&nbsp;
+<a href="https://github.com/A-Piyas-04?tab=overview"><img src="https://img.shields.io/badge/ACTIVITY-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="Activity" /></a>
 
 </div>
 
----
+## The work, in motion
 
-<table>
-<tr><td width="62%" valign="top">
+<div align="center">
+<img src="assets/systems.svg" width="100%" alt="Architecture map: experience, services, intelligence and platform" />
+</div>
 
-### 01 / THE PERSON BEHIND THE CODE
+I design and build across **AI/ML applications, full-stack software, developer tools, and applied research**. I'm studying Software Engineering at **Islamic University of Technology** and exploring how intelligent systems become dependable products.
 
-I'm **Ahnaf Shahriar Pias**, a Software Engineering undergraduate at **Islamic University of Technology** with a focus on **AI/ML engineering, backend architecture, full-stack products, and applied research**.
+## Selected builds
 
-I enjoy projects that demand more than one discipline: a retrieval pipeline connected to a product interface, a distributed backend behind a real workflow, or a research model translated into an interactive experience.
+Each panel is a custom SVG, not a generated screenshot. Select the link beneath it to see the source.
 
-**Current focus:** AI agents · RAG and vector search · LLM application engineering · reliable backend systems · developer tools.
+<a href="https://github.com/A-Piyas-04/CareerPilot"><img src="assets/project-1.svg" width="100%" alt="Visual project showcase for CareerPilot" /></a>
 
-</td><td width="38%" valign="top">
+<div align="right"><a href="https://github.com/A-Piyas-04/CareerPilot"><b>OPEN CAREERPILOT SOURCE →</b></a></div>
 
-```text
-PROFILE / 001
+<a href="https://github.com/A-Piyas-04/PaperPorteHobe"><img src="assets/project-2.svg" width="100%" alt="Visual project showcase for ScholarGrid" /></a>
 
-DISCIPLINE
-Software Engineering
+<div align="right"><a href="https://github.com/A-Piyas-04/PaperPorteHobe"><b>OPEN SCHOLARGRID SOURCE →</b></a></div>
 
-FOCUS
-AI / ML Systems
-Full-Stack Products
-Backend Architecture
-Applied Research
+<a href="https://github.com/A-Piyas-04/woTask"><img src="assets/project-3.svg" width="100%" alt="Visual project showcase for woTask" /></a>
 
-LOCATION
-Bangladesh
-```
+<div align="right"><a href="https://github.com/A-Piyas-04/woTask"><b>OPEN WOTASK SOURCE →</b></a></div>
 
-</td></tr>
-</table>
+<a href="https://github.com/A-Piyas-04/Nexus-Ride"><img src="assets/project-4.svg" width="100%" alt="Visual project showcase for Nexus-Ride" /></a>
 
-<a id="selected-work"></a>
+<div align="right"><a href="https://github.com/A-Piyas-04/Nexus-Ride"><b>OPEN NEXUS-RIDE SOURCE →</b></a></div>
 
-## 02 / SELECTED WORK
+<a href="https://github.com/A-Piyas-04/IUTverse"><img src="assets/project-5.svg" width="100%" alt="Visual project showcase for IUTverse" /></a>
 
-<sub>REAL PRODUCTS, RESEARCH, AND SYSTEMS / OPEN THE SOURCE TO EXPLORE</sub>
+<div align="right"><a href="https://github.com/A-Piyas-04/IUTverse"><b>OPEN IUTVERSE SOURCE →</b></a></div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/A-Piyas-04/SATD-embedding-DP2"><img src="assets/project-6.svg" width="100%" alt="Visual project showcase for SATD Embedding Research" /></a>
 
-### [CAREERPILOT](https://github.com/A-Piyas-04/CareerPilot)
-**AI / AGENTIC APPLICATION**
+<div align="right"><a href="https://github.com/A-Piyas-04/SATD-embedding-DP2"><b>OPEN SATD EMBEDDING RESEARCH SOURCE →</b></a></div>
 
-A career co-pilot that ingests CVs, retrieves grounded context, scores job fit, drafts cover letters, and assembles learning roadmaps.
-
-`Next.js 16` `React 19` `FastAPI` `Gemini` `Supabase` `pgvector` `Docker`
-
-[View repository →](https://github.com/A-Piyas-04/CareerPilot)
-
-</td>
-<td width="50%" valign="top">
-
-### [SCHOLARGRID](https://github.com/A-Piyas-04/PaperPorteHobe)
-**RESEARCH INTELLIGENCE / SEMANTIC SEARCH**
-
-Turns arXiv paper collections into explorable research landscapes using embeddings, dimensionality reduction, clustering, trends, and semantic search.
-
-`Python` `Streamlit` `Sentence Transformers` `UMAP` `HDBSCAN` `scikit-learn`
-
-[View repository →](https://github.com/A-Piyas-04/PaperPorteHobe)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### [WOTASK](https://github.com/A-Piyas-04/woTask)
-**DESKTOP SOFTWARE / INTERACTION DESIGN**
-
-An offline-first, spatial task manager that represents projects as constellations and task dependencies as visual chains.
-
-`TypeScript` `Vite` `Tauri` `WebView2` `Local-first`
-
-[View repository →](https://github.com/A-Piyas-04/woTask)
-
-</td>
-<td valign="top">
-
-### [IUTVERSE](https://github.com/A-Piyas-04/IUTverse)
-**CAMPUS PLATFORM / FULL STACK**
-
-A university platform combining profiles, real-time messaging, academic resources, a job board, and campus utilities.
-
-`React` `Express` `Prisma` `PostgreSQL` `JWT` `Vite`
-
-[View repository →](https://github.com/A-Piyas-04/IUTverse)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### [NEXUS-RIDE](https://github.com/A-Piyas-04/Nexus-Ride)
-**TRANSPORT PLATFORM / BACKEND SYSTEMS**
-
-Subscription-based transport management with staff and subscriber dashboards, routes, travel tokens, and JWT authentication.
-
-`FastAPI` `SQLModel` `PostgreSQL` `React` `Docker`
-
-[View repository →](https://github.com/A-Piyas-04/Nexus-Ride)
-
-</td>
-<td valign="top">
-
-### [CROSS-PLATFORM SENTIMENT](https://github.com/A-Piyas-04/cross-platform-sentiment)
-**APPLIED MACHINE LEARNING / NLP**
-
-Tests how Reddit-trained sentiment models generalize to Twitter, with domain-shift diagnostics and a CORAL adaptation experiment.
-
-`Python` `scikit-learn` `NLTK` `SciPy` `Pandas` `Jupyter`
-
-[View repository →](https://github.com/A-Piyas-04/cross-platform-sentiment)
-
-</td>
-</tr>
-</table>
+## Technical universe
 
 <div align="center">
 
-[**Browse all public repositories →**](https://github.com/A-Piyas-04?tab=repositories)
+**LANGUAGES / CORE**
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,html,css&theme=dark&perline=9" alt="Python, TypeScript, JavaScript, Java, C++, C, HTML, CSS" />
+
+**FRONTEND / EXPERIENCE**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark&perline=9" alt="React, Next.js, Vite, Tailwind, Three.js" />
+
+**BACKEND / DATA / INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,redis,supabase,docker,nginx,githubactions,rabbitmq&theme=dark&perline=8" alt="FastAPI, Node.js, Express, PostgreSQL, MongoDB, MySQL, Redis, Supabase, Docker, Nginx, GitHub Actions, RabbitMQ" />
+
+**AI / ML / RESEARCH**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda&theme=dark&perline=9" alt="PyTorch, scikit-learn, Anaconda" />
+
+`LLMs` · `RAG` · `Embeddings` · `pgvector` · `Gemini` · `Qwen3` · `E5` · `XGBoost` · `UMAP` · `HDBSCAN` · `NLP`
+
+**TOOLCHAIN / PRODUCT DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode&theme=dark&perline=9" alt="Git, GitHub, Postman, Vercel, Linux, VS Code" />
+
+`Tauri` · `TanStack Query` · `CodeMirror` · `Streamlit` · `Gradio` · `Prometheus` · `Grafana` · `n8n` · `GraphQL`
 
 </div>
 
-<a id="engineering-toolkit"></a>
-
-## 03 / ENGINEERING TOOLKIT
-
-<sub>TECHNOLOGIES USED ACROSS PROJECTS, EXPERIMENTS, AND RESEARCH</sub>
-
-| DOMAIN | TOOLING |
-| :--- | :--- |
-| **Languages** | Python · TypeScript · JavaScript · SQL · Java · C · C++ |
-| **Frontend & interfaces** | React · Next.js · Vite · Tailwind CSS · TanStack Query · React Router · CodeMirror · Three.js · PixiJS |
-| **Backend & APIs** | FastAPI · Uvicorn · Node.js · Express · REST · GraphQL · SQLModel · Prisma · JWT · Supabase Auth |
-| **AI systems & LLMs** | Gemini · RAG · LLM orchestration · Prompt chaining · Vector retrieval · Qwen3-Embedding · E5-Large · Sentence Transformers |
-| **ML & research** | PyTorch · scikit-learn · XGBoost · Pandas · NumPy · SciPy · NLTK · TF-IDF · UMAP · HDBSCAN · Matplotlib |
-| **Data & storage** | PostgreSQL · pgvector · Supabase · MongoDB · MySQL · Redis · DuckDB · IndexedDB |
-| **Infrastructure** | Docker · Docker Compose · GitHub Actions · Nginx · RabbitMQ · Vercel · Railway · Firebase |
-| **Product & developer tools** | Tauri · Streamlit · Gradio · Jupyter · Colab · Kaggle · Postman · Git · GitHub · Cursor · n8n |
-
-<details>
-<summary><b>EXPAND / How I approach building systems</b></summary>
-<br>
-
-| PROBLEM | ENGINEERING APPROACH |
-| :--- | :--- |
-| Grounding LLM responses | Chunking, embeddings, retrieval, vector indexes, evidence-aware responses |
-| Full-stack delivery | API contracts, typed frontends, authentication, database-backed workflows |
-| Distributed services | Container networking, service boundaries, queues, caching, integration testing |
-| Applied ML | Reproducible notebooks, feature and embedding comparisons, evaluation and error analysis |
-| Product interaction | Task visualization, information hierarchy, responsive components, accessible motion |
-
-</details>
-
-## 04 / RESEARCH & EXPERIMENTS
-
-<table>
-<tr><th align="left">RESEARCH THREAD</th><th align="left">WHAT IT EXPLORES</th></tr>
-<tr><td><b>Self-Admitted Technical Debt</b></td><td>Embedding-based classification of technical-debt statements across software artifacts using Qwen3, E5-Large, and XGBoost.</td></tr>
-<tr><td><b>Cross-platform sentiment transfer</b></td><td>Generalization from Reddit to Twitter, distribution shift, model calibration, and CORAL adaptation.</td></tr>
-<tr><td><b>Scientific literature exploration</b></td><td>Semantic search, paper clustering, interpretable research landscapes, publication trends, and evidence-backed discovery.</td></tr>
-<tr><td><b>Agentic systems</b></td><td>ReAct workflows, tool calling, memory/state, orchestration, evaluation, and production reliability.</td></tr>
-</table>
-
-<a id="contribution-activity"></a>
-
-## 05 / CONTRIBUTION ACTIVITY
-
-**The source of truth is GitHub's own contribution calendar.** The previous externally generated graphs did not load reliably, so this version links directly to real activity instead of showing broken images or invented metrics.
+## Contribution signal
 
 <div align="center">
 
-[**VIEW MY LIVE CONTRIBUTION CALENDAR →**](https://github.com/A-Piyas-04#user-activity-overview)
+<img src="assets/contributions.svg" alt="Real GitHub contribution calendar, automatically refreshed with green-to-yellow intensity" width="100%" />
 
-`NO SYNTHETIC COUNTS` &nbsp; `REAL CONTRIBUTIONS` &nbsp; `GITHUB-NATIVE DATA`
+<sub>Real GitHub activity · generated by this repository's scheduled GitHub Actions workflow · green → yellow intensity</sub>
 
 </div>
 
-> **Color direction:** burgundy / rose throughout the portfolio; lime and yellow-green reserved for the activity motif. GitHub's native contribution calendar uses GitHub's own colors and cannot be recolored from a README.
+## Currently exploring
 
-## 06 / CURRENTLY BUILDING TOWARD
-
-| SYSTEMS | INTERESTS |
-| :--- | :--- |
-| **Intelligent applications** | Agent frameworks, tool execution, structured outputs, retrieval, evaluation |
-| **Reliable services** | Observability, testing, caching, asynchronous processing, secure deployment |
-| **Research-to-product** | Embedding experiments, model comparison, searchable knowledge systems |
-| **Human-centered tools** | Interactive interfaces, productivity workflows, information visualization |
-
-<a id="connect"></a>
-
-## 07 / CONNECT
-
-I enjoy discussing applied AI, software engineering, research tooling, and products that solve concrete problems.
-
-**[GITHUB](https://github.com/A-Piyas-04)** &nbsp; / &nbsp; **[REPOSITORIES](https://github.com/A-Piyas-04?tab=repositories)**
-
-<!-- Add your real LinkedIn URL here after verification. -->
+<table><tr><td width="50%"><b>AGENTIC SYSTEMS</b><br/>Tool calling · ReAct · multi-agent workflows · memory</td><td width="50%"><b>PRODUCTION AI</b><br/>RAG · evaluation · observability · guardrails</td></tr><tr><td><b>SOFTWARE ARCHITECTURE</b><br/>Microservices · event-driven systems · caching</td><td><b>APPLIED RESEARCH</b><br/>Representation learning · embeddings · software analytics</td></tr></table>
 
 <div align="center">
+<img src="assets/footer.svg" width="100%" alt="Animated closing signature" />
 
----
-
-<sub>AHNAF SHAHRIAR PIAS — ENGINEERED WITH CURIOSITY, SHIPPED WITH INTENTION.</sub>
-
+<a href="https://github.com/A-Piyas-04"><b>GITHUB</b></a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/A-Piyas-04?tab=repositories"><b>ALL PROJECTS</b></a>
 </div>

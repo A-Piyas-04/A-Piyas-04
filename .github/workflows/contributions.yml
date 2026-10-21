@@ -1,23 +1,32 @@
 name: Refresh contribution calendar
-on:
+
+"on":
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '17 4 * * *'
+    - cron: "17 4 * * *"
+
 permissions:
   contents: write
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
+
       - name: Generate real contribution heatmap
         run: python scripts/update_contributions.py
+
       - name: Commit updated graphic
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/contributions.svg
-          git diff --cached --quiet || (git commit -m 'Refresh real contribution calendar' && git push)
+          git diff --cached --quiet || (git commit -m "Refresh real contribution calendar" && git push)

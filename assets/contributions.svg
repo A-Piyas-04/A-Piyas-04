@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img"><defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#10070C"/><stop offset=".5" stop-color="#190B12"/><stop offset="1" stop-color="#451126"/></linearGradient>
+ <linearGradient id="rose" x1="0" x2="1"><stop stop-color="#701A3D"/><stop offset=".55" stop-color="#E5B5C7"/><stop offset="1" stop-color="#701A3D"/></linearGradient>
+ <linearGradient id="green" x1="0" x2="1"><stop stop-color="#A9DE55"/><stop offset="1" stop-color="#E8D94F"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#C77B9B" stop-opacity=".32"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#C77B9B" stroke-opacity=".10" stroke-width="1"/></pattern>
+ <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+ </defs><rect width="100%" height="100%" fill="url(#bg)"/><rect width="100%" height="100%" fill="url(#grid)"/><text x="50" y="66" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing="1" fill="#F8F0F3" >CONTRIBUTION CALENDAR</text><text x="50" y="113" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#E5B5C7" >Awaiting first GitHub Actions sync — real contribution data will appear here.</text><text x="50" y="151" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="400" letter-spacing="0" fill="#A9DE55" >Colors: dark green  →  lime  →  yellow</text></svg>

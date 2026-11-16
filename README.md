@@ -1,96 +1,66 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Animated introduction, Ahnaf Shahriar Pias" />
+# Ahnaf Shahriar Pias
 
-<img src="assets/signal.svg" width="100%" alt="Design, engineer, ship, repeat" />
+**Software Engineering @ Islamic University of Technology**
+AI/ML applications · Full-stack development · Applied research
 
-<a href="https://github.com/A-Piyas-04?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub repositories" /></a>&nbsp;
-<a href="https://github.com/A-Piyas-04?tab=overview"><img src="https://img.shields.io/badge/ACTIVITY-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="Activity" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/A-Piyas-04)
+[![Repositories](https://img.shields.io/badge/Repositories-0969DA?style=flat&logo=github&logoColor=white)](https://github.com/A-Piyas-04?tab=repositories)
+<!-- Add these once you have them:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+-->
 
 </div>
 
-## The work, in motion
+---
 
-<div align="center">
-<img src="assets/systems.svg" width="100%" alt="Architecture map: experience, services, intelligence and platform" />
-</div>
+## About
 
-I design and build across **AI/ML applications, full-stack software, developer tools, and applied research**. I'm studying Software Engineering at **Islamic University of Technology** and exploring how intelligent systems become dependable products.
+I build across AI/ML applications, full-stack software, and developer tools, with a focus on turning research-grade ideas into reliable, production-ready systems. Currently studying Software Engineering at the Islamic University of Technology.
 
-## Selected builds
+## Featured Projects
 
-Each panel is a custom SVG, not a generated screenshot. Select the link beneath it to see the source.
+| Project | Description | Source |
+|---------|-------------|--------|
+| **CareerPilot** | AI-assisted career guidance platform | [Repo](https://github.com/A-Piyas-04/CareerPilot) |
+| **ScholarGrid** | Research & academic paper management tool | [Repo](https://github.com/A-Piyas-04/PaperPorteHobe) |
+| **woTask** | Task and workflow management app | [Repo](https://github.com/A-Piyas-04/woTask) |
+| **Nexus-Ride** | Ride-sharing platform | [Repo](https://github.com/A-Piyas-04/Nexus-Ride) |
+| **IUTverse** | Campus community platform for IUT | [Repo](https://github.com/A-Piyas-04/IUTverse) |
+| **SATD Embedding Research** | Self-admitted technical debt detection with embeddings | [Repo](https://github.com/A-Piyas-04/SATD-embedding-DP2) |
 
-<a href="https://github.com/A-Piyas-04/CareerPilot"><img src="assets/project-1.svg" width="100%" alt="Visual project showcase for CareerPilot" /></a>
+## Tech Stack
 
-<div align="right"><a href="https://github.com/A-Piyas-04/CareerPilot"><b>OPEN CAREERPILOT SOURCE →</b></a></div>
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,html,css&theme=dark&perline=9" alt="Python, TypeScript, JavaScript, Java, C++, C, HTML, CSS" /></p>
 
-<a href="https://github.com/A-Piyas-04/PaperPorteHobe"><img src="assets/project-2.svg" width="100%" alt="Visual project showcase for ScholarGrid" /></a>
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark&perline=9" alt="React, Next.js, Vite, Tailwind, Three.js" /></p>
 
-<div align="right"><a href="https://github.com/A-Piyas-04/PaperPorteHobe"><b>OPEN SCHOLARGRID SOURCE →</b></a></div>
+**Backend & Infrastructure**
+<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,redis,supabase,docker,nginx,githubactions,rabbitmq&theme=dark&perline=12" alt="FastAPI, Node.js, Express, PostgreSQL, MongoDB, MySQL, Redis, Supabase, Docker, Nginx, GitHub Actions, RabbitMQ" /></p>
 
-<a href="https://github.com/A-Piyas-04/woTask"><img src="assets/project-3.svg" width="100%" alt="Visual project showcase for woTask" /></a>
-
-<div align="right"><a href="https://github.com/A-Piyas-04/woTask"><b>OPEN WOTASK SOURCE →</b></a></div>
-
-<a href="https://github.com/A-Piyas-04/Nexus-Ride"><img src="assets/project-4.svg" width="100%" alt="Visual project showcase for Nexus-Ride" /></a>
-
-<div align="right"><a href="https://github.com/A-Piyas-04/Nexus-Ride"><b>OPEN NEXUS-RIDE SOURCE →</b></a></div>
-
-<a href="https://github.com/A-Piyas-04/IUTverse"><img src="assets/project-5.svg" width="100%" alt="Visual project showcase for IUTverse" /></a>
-
-<div align="right"><a href="https://github.com/A-Piyas-04/IUTverse"><b>OPEN IUTVERSE SOURCE →</b></a></div>
-
-<a href="https://github.com/A-Piyas-04/SATD-embedding-DP2"><img src="assets/project-6.svg" width="100%" alt="Visual project showcase for SATD Embedding Research" /></a>
-
-<div align="right"><a href="https://github.com/A-Piyas-04/SATD-embedding-DP2"><b>OPEN SATD EMBEDDING RESEARCH SOURCE →</b></a></div>
-
-## Technical universe
-
-<div align="center">
-
-**LANGUAGES / CORE**
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,html,css&theme=dark&perline=9" alt="Python, TypeScript, JavaScript, Java, C++, C, HTML, CSS" />
-
-**FRONTEND / EXPERIENCE**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark&perline=9" alt="React, Next.js, Vite, Tailwind, Three.js" />
-
-**BACKEND / DATA / INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,redis,supabase,docker,nginx,githubactions,rabbitmq&theme=dark&perline=8" alt="FastAPI, Node.js, Express, PostgreSQL, MongoDB, MySQL, Redis, Supabase, Docker, Nginx, GitHub Actions, RabbitMQ" />
-
-**AI / ML / RESEARCH**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda&theme=dark&perline=9" alt="PyTorch, scikit-learn, Anaconda" />
+**AI / ML**
+<p><img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda&theme=dark&perline=9" alt="PyTorch, scikit-learn, Anaconda" /></p>
 
 `LLMs` · `RAG` · `Embeddings` · `pgvector` · `Gemini` · `Qwen3` · `E5` · `XGBoost` · `UMAP` · `HDBSCAN` · `NLP`
 
-**TOOLCHAIN / PRODUCT DEVELOPMENT**
+**Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode&theme=dark&perline=9" alt="Git, GitHub, Postman, Vercel, Linux, VS Code" /></p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode&theme=dark&perline=9" alt="Git, GitHub, Postman, Vercel, Linux, VS Code" />
+## Currently Exploring
 
-`Tauri` · `TanStack Query` · `CodeMirror` · `Streamlit` · `Gradio` · `Prometheus` · `Grafana` · `n8n` · `GraphQL`
+| | |
+|---|---|
+| **Agentic systems** — tool calling, ReAct, multi-agent workflows | **Production AI** — RAG, evaluation, observability, guardrails |
+| **Software architecture** — microservices, event-driven systems, caching | **Applied research** — representation learning, embeddings, software analytics |
 
-</div>
-
-## Contribution signal
-
-<div align="center">
-
-<img src="assets/contributions.svg" alt="Real GitHub contribution calendar, automatically refreshed with green-to-yellow intensity" width="100%" />
-
-<sub>Real GitHub activity · generated by this repository's scheduled GitHub Actions workflow · green → yellow intensity</sub>
-
-</div>
-
-## Currently exploring
-
-<table><tr><td width="50%"><b>AGENTIC SYSTEMS</b><br/>Tool calling · ReAct · multi-agent workflows · memory</td><td width="50%"><b>PRODUCTION AI</b><br/>RAG · evaluation · observability · guardrails</td></tr><tr><td><b>SOFTWARE ARCHITECTURE</b><br/>Microservices · event-driven systems · caching</td><td><b>APPLIED RESEARCH</b><br/>Representation learning · embeddings · software analytics</td></tr></table>
+## GitHub Activity
 
 <div align="center">
-<img src="assets/footer.svg" width="100%" alt="Animated closing signature" />
-
-<a href="https://github.com/A-Piyas-04"><b>GITHUB</b></a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/A-Piyas-04?tab=repositories"><b>ALL PROJECTS</b></a>
+<img src="assets/contributions.svg" alt="GitHub contribution calendar" width="100%" />
+<br/>
+<sub>Auto-refreshed via this repo's scheduled GitHub Actions workflow</sub>
 </div>

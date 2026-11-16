@@ -1,16 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:701A3D,100:C9184A&height=200&section=header&text=Ahnaf%20Shahriar%20Pias&fontSize=44&fontColor=F8F0F3&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Applied%20Research&descSize=18&descAlignY=58" width="100%" />
+
 <div align="center">
 
-# Ahnaf Shahriar Pias
+<a href="https://github.com/A-Piyas-04"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9184A&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+IUT;AI%2FML+Applications+Developer;Full-Stack+Engineer;Turning+research+ideas+into+real+products" alt="Typing animation" /></a>
 
-**Software Engineering @ Islamic University of Technology**
-AI/ML applications · Full-stack development · Applied research
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/A-Piyas-04)
-[![Repositories](https://img.shields.io/badge/Repositories-0969DA?style=flat&logo=github&logoColor=white)](https://github.com/A-Piyas-04?tab=repositories)
-<!-- Add these once you have them:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
--->
+<img src="https://komarev.com/ghpvc/?username=A-Piyas-04&style=flat&color=701A3D&label=PROFILE+VIEWS" alt="Profile views" />
+&nbsp;
+<a href="https://github.com/A-Piyas-04?tab=repositories"><img src="https://img.shields.io/badge/Repositories-701A3D?style=flat&logo=github&logoColor=F8F0F3" alt="Repositories" /></a>
 
 </div>
 
@@ -18,7 +16,7 @@ AI/ML applications · Full-stack development · Applied research
 
 ## About
 
-I build across AI/ML applications, full-stack software, and developer tools, with a focus on turning research-grade ideas into reliable, production-ready systems. Currently studying Software Engineering at the Islamic University of Technology.
+I build across AI/ML applications, full-stack software, and developer tools, with a focus on turning research-grade ideas into reliable, production-ready systems. Currently studying Software Engineering at the **Islamic University of Technology**.
 
 ## Featured Projects
 
@@ -34,33 +32,42 @@ I build across AI/ML applications, full-stack software, and developer tools, wit
 ## Tech Stack
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,html,css&theme=dark&perline=9" alt="Python, TypeScript, JavaScript, Java, C++, C, HTML, CSS" /></p>
+<p><img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,html,css&theme=dark&perline=9" alt="Languages" /></p>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark&perline=9" alt="React, Next.js, Vite, Tailwind, Three.js" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark&perline=9" alt="Frontend" /></p>
 
 **Backend & Infrastructure**
-<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,redis,supabase,docker,nginx,githubactions,rabbitmq&theme=dark&perline=12" alt="FastAPI, Node.js, Express, PostgreSQL, MongoDB, MySQL, Redis, Supabase, Docker, Nginx, GitHub Actions, RabbitMQ" /></p>
+<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,redis,supabase,docker,nginx,githubactions,rabbitmq&theme=dark&perline=12" alt="Backend" /></p>
 
 **AI / ML**
-<p><img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda&theme=dark&perline=9" alt="PyTorch, scikit-learn, Anaconda" /></p>
+<p><img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda&theme=dark&perline=9" alt="AI/ML" /></p>
 
 `LLMs` · `RAG` · `Embeddings` · `pgvector` · `Gemini` · `Qwen3` · `E5` · `XGBoost` · `UMAP` · `HDBSCAN` · `NLP`
 
 **Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode&theme=dark&perline=9" alt="Git, GitHub, Postman, Vercel, Linux, VS Code" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode&theme=dark&perline=9" alt="Tools" /></p>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=A-Piyas-04&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0208&title_color=C9184A&text_color=F8F0F3&icon_color=C9184A" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Piyas-04&layout=compact&hide_border=true&langs_count=8&bg_color=0D0208&title_color=C9184A&text_color=F8F0F3" alt="Top languages" />
+
+<img width="100%" src="https://streak-stats.demolab.com?user=A-Piyas-04&hide_border=true&background=0D0208&stroke=701A3D&ring=C9184A&fire=C9184A&currStreakLabel=C9184A&sideLabels=F8F0F3&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=8B8B8B" alt="Streak" />
+
+</div>
+
+## Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-Piyas-04&bg_color=0D0208&color=F8F0F3&line=C9184A&point=701A3D&area=true&area_color=701A3D&hide_border=true" alt="Activity graph" />
 
 ## Currently Exploring
 
 | | |
 |---|---|
 | **Agentic systems** — tool calling, ReAct, multi-agent workflows | **Production AI** — RAG, evaluation, observability, guardrails |
-| **Software architecture** — microservices, event-driven systems, caching | **Applied research** — representation learning, embeddings, software analytics |
+| **Software architecture** — microservices, event-driven, caching | **Applied research** — representation learning, embeddings, analytics |
 
-## GitHub Activity
-
-<div align="center">
-<img src="assets/contributions.svg" alt="GitHub contribution calendar" width="100%" />
-<br/>
-<sub>Auto-refreshed via this repo's scheduled GitHub Actions workflow</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9184A,100:701A3D&height=120&section=footer" width="100%" />

@@ -52,8 +52,12 @@ I build across AI/ML applications, full-stack software, and developer tools, wit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=A-Piyas-04&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0208&title_color=C9184A&text_color=F8F0F3&icon_color=C9184A" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Piyas-04&layout=compact&hide_border=true&langs_count=8&bg_color=0D0208&title_color=C9184A&text_color=F8F0F3" alt="Top languages" />
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=A-Piyas-04&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D0208&title_color=C9184A&text_color=F8F0F3&icon_color=C9184A" alt="GitHub stats" />
+
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-Piyas-04&layout=compact&hide_border=true&langs_count=8&bg_color=0D0208&title_color=C9184A&text_color=F8F0F3" alt="Top languages" />
+
 
  <img width="100%" src="https://streak-stats.demolab.com?user=A-Piyas-04&hide_border=true&background=0D0208&stroke=701A3D&ring=C9184A&fire=C9184A&currStreakLabel=C9184A&sideLabels=F8F0F3&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=8B8B8B&refresh=initial" alt="GitHub Contribution Streak" />
 

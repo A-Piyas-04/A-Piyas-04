@@ -16,7 +16,7 @@
 
 ## About
 
-I build across AI/ML applications, full-stack software, and developer tools, with a focus on turning research-grade ideas into reliable, production-ready systems. Currently studying Software Engineering at the **Islamic University of Technology**.
+I build across AI/ML applications, full-stack softwares, and developer tools, with a focus on turning research-grade ideas into reliable, production-ready systems. Currently studying Software Engineering at the **Islamic University of Technology**.
 
 ## Featured Projects
 

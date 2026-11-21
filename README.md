@@ -59,7 +59,7 @@ I build across AI/ML applications, full-stack softwares, and developer tools, wi
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-Piyas-04&layout=compact&hide_border=true&langs_count=8&bg_color=0D0208&title_color=C9184A&text_color=F8F0F3" alt="Top languages" />
 
 
- <img width="100%" src="https://streak-stats.demolab.com?user=A-Piyas-04&hide_border=true&background=0D0208&stroke=701A3D&ring=C9184A&fire=C9184A&currStreakLabel=C9184A&sideLabels=F8F0F3&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=8B8B8B&refresh=1795284100" alt="GitHub Contribution Streak" />
+ <img width="100%" src="https://streak-stats.demolab.com?user=A-Piyas-04&hide_border=true&background=0D0208&stroke=701A3D&ring=C9184A&fire=C9184A&currStreakLabel=C9184A&sideLabels=F8F0F3&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=8B8B8B&refresh=1795303394" alt="GitHub Contribution Streak" />
 
 </div>
 
